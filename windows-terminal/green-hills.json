@@ -1,0 +1,23 @@
+{
+    "name": "Green Hills",
+    "background": "#0b0807",
+    "foreground": "#dcd8ce",
+    "cursorColor": "#dcd8ce",
+    "selectionBackground": "#dcd8ce",
+    "black": "#0b0807",
+    "red": "#a0572f",
+    "green": "#a95831",
+    "yellow": "#977259",
+    "blue": "#688e68",
+    "purple": "#a8916b",
+    "cyan": "#a1a09d",
+    "white": "#dcd8ce",
+    "brightBlack": "#688e68",
+    "brightRed": "#a0572f",
+    "brightGreen": "#a95831",
+    "brightYellow": "#977259",
+    "brightBlue": "#688e68",
+    "brightPurple": "#a8916b",
+    "brightCyan": "#a1a09d",
+    "brightWhite": "#dcd8ce"
+}

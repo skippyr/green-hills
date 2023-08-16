@@ -1,0 +1,31 @@
+[metadata]
+name = "Green Hills"
+author = "Sherman Rofeman"
+origin_url = "https://github.com/skippyr/green-hills"
+[colors]
+background = "#0b0807"
+foreground = "#dcd8ce"
+cursor_bg = "#dcd8ce"
+cursor_fg = "#0b0807"
+selection_bg = "#dcd8ce"
+selection_fg = "#0b0807"
+ansi = [
+    "#0b0807",
+    "#a0572f",
+    "#a95831",
+    "#977259",
+    "#688e68",
+    "#a8916b",
+    "#a1a09d",
+    "#dcd8ce"
+]
+brights = [
+    "#688e68",
+    "#a0572f",
+    "#a95831",
+    "#977259",
+    "#688e68",
+    "#a8916b",
+    "#a1a09d",
+    "#dcd8ce"
+]
