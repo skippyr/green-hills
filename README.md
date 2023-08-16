@@ -21,6 +21,9 @@ These are the colors used in the theme:
 | Cyan                | 6    | `#a1a09d` |
 | White (foreground)  | 7    | `#dcd8ce` |
 
+### Support
+Report issues, questions and suggestions through its [issues page](https://github.com/skippyr/green-hills/issues).
+
 ## Copyright
 This software is under the BSD-3-Clause license. A copy of the license is
 bundled with the source code.
